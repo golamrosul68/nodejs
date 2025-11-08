@@ -1,4 +1,7 @@
-function sum (a, b){
+function total (a, b){
     console.log(a + b);
 }
-sum(5 ,59)
+
+
+
+module.exports = total;
