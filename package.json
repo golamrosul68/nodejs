@@ -6,6 +6,6 @@
     "start": "node main.js"
   },
   "author": "badhon",
-  "license": "ISC",
+  "license": "ISC",  
   "description": ""
 }

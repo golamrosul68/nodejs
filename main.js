@@ -1,3 +1,18 @@
-const about = require ("./sum")
+// const {total , printHelloworld} = require ("./about")
 
-about(5,998)
+// total ( 5, 10);
+let info = {
+name : "badhon",
+age : 22,
+phone : 1234568,
+
+}
+
+let aboutinfo = {
+name : "badhon",
+age : 22,
+phone : 1234568,
+
+}
+let {name, age, phone}= info;
+console.log(name)
