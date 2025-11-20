@@ -1,18 +1,3 @@
-// const {total , printHelloworld} = require ("./about")
+import total from './about.js';
 
-// total ( 5, 10);
-let info = {
-name : "badhon",
-age : 22,
-phone : 1234568,
-
-}
-
-let aboutinfo = {
-name : "badhon",
-age : 22,
-phone : 1234568,
-
-}
-let {name, age, phone}= info;
-console.log(name)
+total(100,50)

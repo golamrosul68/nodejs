@@ -7,4 +7,4 @@ function printHelloworld(){
 
 
 
-module.exports = { total, printHelloworld};
+export {total,printHelloworld}
